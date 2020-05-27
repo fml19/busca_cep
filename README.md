@@ -27,4 +27,4 @@ $ bundle install
 3. Para executar o projeto deve ser usado o comando:
 ````
 $ Cucumber
-```
+
